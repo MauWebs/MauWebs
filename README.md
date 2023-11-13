@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,netlify,electron)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,sqlite,mysql)](https://skillicons.dev)
 
 <!--
 **MauWebs/MauWebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
