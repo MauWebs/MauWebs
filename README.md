@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,powershell)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,electron,netlify)](https://skillicons.dev)
 
 <!--
 **MauWebs/MauWebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
