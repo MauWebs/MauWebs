@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,powershell)](https://www.instagram.com/mau_webs/)
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css)](https://www.instagram.com/mau_webs/)
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,netlify,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,netlify,electron)](https://www.instagram.com/mau_webs/)
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,sqlite,mysql)](https://www.instagram.com/mau_webs/)
 
 <!--
 **MauWebs/MauWebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
